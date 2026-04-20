@@ -5,7 +5,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/Garima1005/inventory-api
 cd inventory-api
 
 npm install
